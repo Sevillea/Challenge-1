@@ -8,6 +8,12 @@ My aim was was to increase the overall accessability for the webpage and also im
 
 Accessibility for Horiseon's webpage was a priority. They wanted their online presence to accommodate different accesibility requirements whichwould not only improve their brand reputation but also assist in mitigating the risk of litigation. 
 
-##What have I Improved?
+##What have I Improved in the Code?
 
-html has been ordered sequentially the
+html has been ordered sequentially.
+
+ARIA has been incorporated to increase accessibility for screen readers and help assistive technologies better understand the layout of the page.
+
+Incorporated sections into the code to create landmark regions and then gave each region a semantically meaningful role.
+
+Introduced identifiable areas of content by using visual allignment, spacing and inentations. 
