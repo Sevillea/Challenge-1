@@ -13,7 +13,7 @@
 
 
 
-## :question: **What Problem does this solve?**
+## :question: What Problem does this solve?
 
  Accessibility for Horiseon's webpage was a priority. They wanted their online presence to accommodate different accesibility requirements which would not only improve their brand reputation but also assist in mitigating the risk of litigation. 
 
@@ -26,13 +26,17 @@
 
  :pencil2: html has been ordered sequentially, with heading attributes falling in sequential order from H1 to H3 in both the html and style sheet. 
 
+
  :pencil2: ARIA has been incorporated to increase accessibility for screen readers and  help assistive technologies better understand the layout of the page.
+
 
  :pencil2: Incorporated sections into the code to create landmark regions and then gave each region a semantically meaningful role to boost SEO. 
 
+
  :pencil2: Introduced identifiable areas of content by using visual allignment, spacing and inentations so the code is easier understood. 
 
- Added <alt> captions to all images and icons for accessibility should they fail to load.
+
+ :pencil2: Added alt captions to all images and icons for accessibility should they fail to load.
 
  Added
 
