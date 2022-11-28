@@ -1,8 +1,8 @@
 # Horiseon Digital Marketing Webpage
 
-Project Status:         Complete :white_check_mark:
-Technologies used:      HTML, CSS
-Source:                 Horiseon Maketing Agency
+Project Status:         Complete :white_check_mark:<br>
+Technologies used:      HTML, CSS <br> 
+Source:                 Horiseon Maketing Agency <br>
 
 
 
