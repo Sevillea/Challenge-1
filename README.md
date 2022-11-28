@@ -48,7 +48,9 @@ Source:                 Horiseon Maketing Agency <br>
 
  ## Outome
 
- Horiseon Digital MArketing now have a semi=responsive, accessible web page which now has smooth scrolling for the user, alt captions if the images/icons fail to load for a user, and whole new sematic codebase. The codebase now increases not only accessibility for screenreaders but increases the SEO across its content. 
+ Horiseon Digital Marketing now have a semi-responsive, accessible web page with smooth scrolling for the user, alt captions if the images/icons fail to load, and whole new sematic codebase with comments for each section. <br>
+ 
+  The codebase now increases not only accessibility for screenreaders but has optimized content for search engines to drive even more traffic to the site.
 
 
 
