@@ -46,7 +46,8 @@ Source:                 Horiseon Maketing Agency <br>
  :pencil2: Added a touch of responsive web design so that the page is now responsive to screen size, futher increasing accessibility. 
 
 
- ## Outome
+
+ ## Outome 
 
  Horiseon Digital Marketing now have a semi-responsive, accessible web page with smooth scrolling for the user, alt captions if the images/icons fail to load, and whole new sematic codebase with comments for each section. <br>
  
@@ -55,12 +56,6 @@ Source:                 Horiseon Maketing Agency <br>
 
 
 
-<img src="https://github.com/Sevillea/HoriSEOn-Digital-Marketing-Agency/blob/main/Horiseon-Top.png">
-
-
-<img src="https://github.com/Sevillea/HoriSEOn-Digital-Marketing-Agency/blob/main/Horiseon-middle.png">
-
-<img src="https://github.com/Sevillea/HoriSEOn-Digital-Marketing-Agency/blob/main/Horiseon-bottom.png">
 
  
 
